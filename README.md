@@ -55,4 +55,5 @@ Provide ways to reach you for questions, suggestions, or contributions:
 
 ## Acknowledgments
 Credit any contributors, libraries, or inspirations used in the project.
+
 Doing this will make it a good option.
